@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:39B54A&height=200&section=header&text=Hi%20There%20👋%20I'm%20Thisara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:0E2A33,100:20697E&height=220&section=header&text=Thisara%20Dulanjaya&fontSize=48&fontColor=F3FBFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Undergraduate&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
   <picture>
@@ -8,75 +8,59 @@
   </picture>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39B54A&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Learning+React%2C+Spring+Boot+%26+AI;Web+Developer+%7C+Backend+Engineer;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=8ED0E7&center=true&vCenter=true&width=620&lines=Full+stack+developer+in+the+making;React+%7C+Spring+Boot+%7C+Flutter+%7C+AI;Building+things+that+solve+real+problems" alt="typing" />
 
 </div>
 
 <br>
 
-## 👨‍💻 About Me
+### About me
 
-- 🎓 Software Engineering Undergraduate
-- 🌱 Currently learning **React**, **Spring Boot**, **AI**, and Modern Web Technologies
-- 💼 Interested in **Web Development**, **Software Architecture**, and **Backend Engineering**
-- 💬 Ask me about **Java**, **React**, **MySQL**, **C#**, and **GitHub**
-- ⚡ Fun fact: I believe every bug is just a feature waiting to be discovered
-
-<br>
-
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" style="margin: 15px;"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" style="margin: 15px;"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45" style="margin: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" style="margin: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin: 15px;"/>
-</p>
+```yaml
+name: Thisara Dulanjaya
+role: Software Engineering Undergraduate
+focus: [Web Development, Mobile Development]
+learning: [React, Spring Boot, FastAPI, AI, Modern Web Technologies]
+currently_exploring: Machine Learning
+philosophy: "the best way to learn anything is to build a project with it"
+```
 
 <br>
 
-## 🌐 Social
+### Tech stack
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thisara-dulanjaya-9b47a0409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 15px;" /></a>
-<a href="mailto:thisaradulanjaya218@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="40" width="50" style="margin: 15px;" /></a>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark" alt="languages"/>
+
+**Frontend and mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,flutter&theme=dark" alt="frontend"/>
+
+**Backend and databases**
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,mongodb,firebase&theme=dark" alt="backend"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,androidstudio&theme=dark" alt="tools"/>
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+### GitHub activity
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=TDulanjaya&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" width="65%" />
+<img src="https://github-stats-extended.vercel.app/api?username=TDulanjaya&show_icons=true&bg_color=050505&title_color=8ED0E7&icon_color=8ED0E7&text_color=DDE3E7&ring_color=8ED0E7&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=TDulanjaya&layout=compact&bg_color=050505&title_color=8ED0E7&text_color=DDE3E7&hide_border=true&border_radius=12" height="170"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=TDulanjaya&theme=gotham&hide_border=true" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=TDulanjaya&hide_border=true&border_radius=12&background=050505&ring=8ED0E7&fire=8ED0E7&currStrNum=F3FBFF&sideNums=F3FBFF&currStrLabel=8ED0E7&sideLabels=8ED0E7&dates=859399&stroke=1A2024" width="70%"/>
 
 </div>
 
@@ -84,8 +68,15 @@
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=TDulanjaya&icon=0&color=39B54A&style=for-the-badge)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/thisara-dulanjaya-9b47a0409/"><img src="https://img.shields.io/badge/LinkedIn-0E2A33?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzhFRDBFNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+<a href="mailto:thisaradulanjaya218@gmail.com"><img src="https://img.shields.io/badge/Email-0E2A33?style=for-the-badge&logo=gmail&logoColor=8ED0E7" alt="Email"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39B54A,100:0077B5&height=100&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TDulanjaya&label=Profile%20views&color=20697E&style=for-the-badge" alt="views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20697E,45:0E2A33,100:050505&height=110&section=footer" width="100%"/>
 
 </div>
